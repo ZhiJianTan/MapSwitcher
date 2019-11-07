@@ -133,6 +133,7 @@ const maps = [{
       }
     },
   },
+	      {
     name: "Mapillary",
     category: MAIN_CATEGORY,
     domain: "www.mapillary.com",
